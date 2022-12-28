@@ -9,4 +9,5 @@ If you don not have a CUDA supported GPU, change the sript to install and use th
 
 # Usage
 Select a Movie or Image strip and run the operator from the Strip menu. 
-![image](https://user-images.githubusercontent.com/1322593/209881061-b52833cb-2155-4157-a89d-5280a3ac835a.png)
+![image](https://user-images.githubusercontent.com/1322593/209881250-d9c70145-680d-4f78-a8ff-d701d3926e37.png)
+
