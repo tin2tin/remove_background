@@ -2,10 +2,11 @@
 Remove background from a Blender VSE Movie or Image strip
 
 # Installation
-Blender must be run in order to install the python lib rembg properly.
-Download and install the add-on as you normally would. 
+Blender must be run "as administrator" in order to install the python lib [rembg](https://github.com/danielgatis/rembg) properly.
 
-If you don not have a CUDA supported GPU, change the sript to install and use the rembg without [GPU] instead.
+[Download](https://github.com/tin2tin/remove_background/archive/refs/heads/main.zip) and install the add-on as you normally would.
+
+If you don not have a CUDA supported GPU, change the script to install and use the rembg lib without [GPU] instead.
 
 # Usage
 Select a Movie or Image strip and run the operator from the Strip menu. 
