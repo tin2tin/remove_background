@@ -1,6 +1,8 @@
 # Remove Background
 Remove background from a Blender VSE Movie or Image strip
 
+Breaks bc of this error: https://github.com/danielgatis/rembg/issues/312
+
 # Installation
 Blender must be run "as administrator" in order to install the python lib [rembg](https://github.com/danielgatis/rembg) properly.
 
