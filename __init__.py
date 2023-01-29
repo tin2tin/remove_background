@@ -149,7 +149,7 @@ def menu_append(self, context):
     layout = self.layout
     layout.separator()
     layout.operator(
-        OPERATOR_OT_RemoveBackgroundOperator.bl_idname, icon="IMAGE_BACKGROUND"
+        OPERATOR_OT_RemoveBackgroundOperator.bl_idname, icon="OUTLINER_OB_IMAGE"
     )
 
 
